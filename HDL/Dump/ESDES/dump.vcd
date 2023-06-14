@@ -1,0 +1,63 @@
+$date
+	Fri Mar 17 10:44:38 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 8 ! rn [7:0] $end
+$var reg 10 " key [9:0] $end
+$var reg 1 # mismatch $end
+$var reg 8 $ nonce [7:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1010 $
+0#
+b10000 "
+b1011111 !
+$end
+#10
+b11110000 !
+b0 "
+b0 $
+1#
+#20
+b1111 !
+b1111111111 "
+b11111111 $
+0#
+#30
+b11000011 !
+b1 "
+b10001 $
+#40
+b10110000 !
+b100000010 "
+b10110001 $
+#50
+b11100 !
+b110100010 "
+#60
+b1001001 !
+b11010010 $
+#70
+b1001 !
+b110110010 "
+#80
+b11100011 !
+b1011000010 "
+b11100100 $
+#90
+b10010 !
+b11000101 "
+b11110101 $
+#100
+b1110110 !
+b11010101 "
+b11000 $
+#110
