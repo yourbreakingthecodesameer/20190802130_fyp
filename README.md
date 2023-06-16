@@ -53,6 +53,16 @@ The mux controls data flow in the case of 0.
 
 ![layout](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/fb19619f-3e93-4ee4-b563-b178b8ab37fd)
 
+# Tools Used
+
+1. **EDA Playground**: EDA (Electronic Design Automation) Playground is an online platform that provides a web-based environment for designing and simulating digital circuits. It allows you to write and simulate HDL code (such as Verilog or VHDL) directly in your browser, making it convenient for learning and experimenting with digital designs.
+
+2. **OpenLane**: OpenLane is an open-source digital ASIC (Application-Specific Integrated Circuit) flow that assists in the entire ASIC design process. It provides a complete RTL-to-GDSII (Register Transfer Level to Graphic Data System II) design flow, including synthesis, placement, and routing. OpenLane is often used for designing and manufacturing integrated circuits.
+
+3. **Logisim**: Logisim is a graphical tool used for designing and simulating digital logic circuits. It allows you to create circuits using a drag-and-drop interface and simulate their behavior. Logisim supports various components, including logic gates, flip-flops, multiplexers, and more. It is commonly used for educational purposes and small-scale digital circuit design.
+
+4. **GTKWave**: GTKWave is a waveform viewer that allows you to visualize and analyze simulation waveforms. It supports various simulation formats, such as VCD (Value Change Dump) or FST (Fast Signal Trace). GTKWave provides features for zooming, searching, and examining signals in the waveform. It is often used in conjunction with HDL simulators to analyze the behavior of digital designs.
+
 
 
 
