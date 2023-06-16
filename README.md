@@ -32,7 +32,7 @@ If you have any further questions or need more specific guidance, feel free to a
 7. **RTL to GDS Conversion**: Once the design is verified at the RTL (Register Transfer Level) level, the next step is to convert it into a GDS (Graphic Data System) file, which represents the physical layout of the design. OpenLANE is an open-source software tool that automates the RTL to GDS conversion flow. Configure and run OpenLANE with the required design specifications and constraints to generate the GDS file.
 
 # Implimentation
-\![image](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/699e27bc-1ceb-4442-99b8-abdce77f7301)
+![image](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/699e27bc-1ceb-4442-99b8-abdce77f7301)
 
 ![image](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/0208a128-a0ad-4994-b271-082860aa4e99)
 
