@@ -42,7 +42,18 @@ If you have any further questions or need more specific guidance, feel free to a
 ![image](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/8a2f4060-d99d-465b-a5b6-30adfa693a6d)
 
 ![image](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/c539d9cb-e443-4b1f-85f5-e512ec0ed3f0)
-The mux controls data flow in the case of 0 or the same input.
+The mux controls data flow in the case of 0.
+
+## Testbench 
+
+![verilog tb](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/5b4f44d4-74af-4bba-8bb0-472dbac83204)
+
+
+## GDS after Synthesis
+
+![layout](https://github.com/yourbreakingthecodesameer/20190802130_fyp/assets/81480956/fb19619f-3e93-4ee4-b563-b178b8ab37fd)
+
+
 
 
 
