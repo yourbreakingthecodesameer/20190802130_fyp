@@ -63,6 +63,9 @@ The mux controls data flow in the case of 0.
 
 4. **GTKWave**: GTKWave is a waveform viewer that allows you to visualize and analyze simulation waveforms. It supports various simulation formats, such as VCD (Value Change Dump) or FST (Fast Signal Trace). GTKWave provides features for zooming, searching, and examining signals in the waveform. It is often used in conjunction with HDL simulators to analyze the behavior of digital designs.
 
+# Project Timeline
+Complete process and project timeline will be found at the notion link ,[View project timeline](https://www.notion.so/Final-Year-Project-631345b319524de5a3adaa90f8eabf72?pvs=4)
+
 
 
 
